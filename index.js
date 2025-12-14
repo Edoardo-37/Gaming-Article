@@ -39,7 +39,6 @@ function handleScroll() {
     progressBar.style.width = `${scrolled}%`;
     if (scrolled >= '30') {
         backTopBtn.classList.add('visible');
-        nav.classList.add('fixed');
     } else if (scrolled <= '15') {
         backTopBtn.classList.remove('visible');
     }
