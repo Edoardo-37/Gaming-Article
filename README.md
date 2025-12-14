@@ -122,7 +122,7 @@ Questa è una pagina di un articolo di ConsoleVault, realizzata con **HTML, CSS 
   - Codice HTML della sezione `article-content` dove andranno generati tutti i contenitori dei singoli div game.
     ![Immagine del code HTML dove andranno generati tutti i contenitori dei singoli div game](./docs/arrayGiochiDinamico-HTML.png)
 
-  - Codice JavaScript dell'array di oggetti e della funzione che scorre l'array e genere il contneuto.
+  - Codice JavaScript dell'array di oggetti e della funzione che scorre l'array e genera il contneuto.
     ![Immagine del code JS dell'array di oggetti gamesData](./docs/arrayGiochiDinamico-JS1.png)
     ![Immagine del code JS dell'array di oggetti gamesData](./docs/arrayGiochiDinamico-JS2.png)
 
